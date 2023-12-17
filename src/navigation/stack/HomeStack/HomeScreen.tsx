@@ -10,5 +10,4 @@ const HomeScreen = () => {
         </Stack.Navigator>
     )
 }
-
 export default HomeScreen
